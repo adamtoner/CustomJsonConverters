@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomJsonConverters", "CustomJsonConverters\CustomJsonConverters.csproj", "{2DFEF454-D87A-441B-B103-F19D196E4ABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomJsonConverters.Tests", "CustomJsonConverters.Tests\CustomJsonConverters.Tests.csproj", "{6FCE98C8-200C-4322-8DC1-8274AE7D6699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DFEF454-D87A-441B-B103-F19D196E4ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DFEF454-D87A-441B-B103-F19D196E4ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DFEF454-D87A-441B-B103-F19D196E4ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DFEF454-D87A-441B-B103-F19D196E4ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FCE98C8-200C-4322-8DC1-8274AE7D6699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCE98C8-200C-4322-8DC1-8274AE7D6699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCE98C8-200C-4322-8DC1-8274AE7D6699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCE98C8-200C-4322-8DC1-8274AE7D6699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
