@@ -16,6 +16,9 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v1
+
     # You do not need to install .NET Framework 4.7.2, it's already available on the Windows runner.
 
     - name: Restore NuGet packages
